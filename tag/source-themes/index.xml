@@ -5,12 +5,35 @@
     <link>/tag/source-themes.html</link>
       <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Richard M. Gutierrez</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Richard M. Gutierrez</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu470a504015a8680bfc4e85dca6a4bded_132350_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hu75af98c4cf089af85f3f51065ac8173d_159338_300x300_fit_lanczos_2.png</url>
       <title>Source Themes</title>
       <link>/tag/source-themes.html</link>
     </image>
+    
+    <item>
+      <title>Comparison of UAS-to-Ground Small-Scale Fading in Residential and Mountainous Desert Terrains</title>
+      <link>/publication/ieee_tvt_2019_uas_chan.html</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ieee_tvt_2019_uas_chan.html</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Joint Sensing and Communications Multiple-Access System Design and Experimental Characterization</title>
