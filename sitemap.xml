@@ -33,6 +33,16 @@
   </url>
   
   <url>
+    <loc>/post.html</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/min-stem-resources.html</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2.html</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
@@ -70,11 +80,6 @@
   <url>
     <loc>/tags.html</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post.html</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

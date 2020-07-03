@@ -5,12 +5,50 @@
     <link>/post.html</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Richard M. Gutierrez</copyright><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Richard M. Gutierrez</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu75af98c4cf089af85f3f51065ac8173d_159338_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
       <link>/post.html</link>
     </image>
+    
+    <item>
+      <title>Resources for Minority STEM Students</title>
+      <link>/post/min-stem-resources.html</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/min-stem-resources.html</guid>
+      <description>&lt;p&gt;I have been very blessed in my life to get to where I currently am and I could not have done it alone. I have been fortunate to have had friends, family (starting with my parents), mentors, and various organizations that have helped me along the way. As a Mexican-American, I am part of an underrepresented group of minorities with in the Science, Technology, Engineering, and Mathematics (STEM) field. A summary of the important findings from a 
+&lt;a href=&#34;https://www.nsf.gov/statistics/wmpd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;report&lt;/a&gt; produced by the National Center for Science and Engineering Statistics summarizes the current state of the underrepresented minorities in STEM:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The share of science and engineering (S&amp;amp;E) bachelor’s and doctorate degrees awarded to underrepresented  minorities—Hispanics or Latinos, blacks or African Americans, and American Indians or Alaska Natives—has increased over the past two decades. Minority-serving institutions—historically black colleges or universities (HBCUs) and high-Hispanic-enrollment institutions (HHEs)—have played an important role in awarding bachelor’s degrees to students who later earn doctorate degrees in S&amp;amp;E fields, helping to advance representation in these fields by minorities. Despite this progress, these groups continue to be underrepresented among S&amp;amp;E degree recipients relative to their representation in the overall population.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So, while more and more of us are going on to college and graduating there is always room to improve.&lt;/p&gt;
+&lt;p&gt;I have gathered some resources of organizations that are dedicated to helping increase the number of hispanics and latinos pursuing a degree within the STEM field. While this is not an exhaustive list, I hope that someone might find these resources useful. All of these organizations work hard to promote STEM and provide resources to underrepresented and underserved communities. I was a direct benefactor of one of these programs. Through the Graduate Engineering Minorities (GEM) organization, I was fortunate enough to have been selected for a full fellowship in 2013 to pursue my PhD in Electrical Engineering. I am also excited to start working as a volunteer with the Si Se Puede Foundation in August.&lt;/p&gt;
+&lt;p&gt;Here are the links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.gemfellowship.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sisepuedefoundation.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSPF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.cientificolatino.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cientifico Latino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://shpe.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SHPE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://mymaes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.hispanicphysicists.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Society of Hispanic Physicists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.latinasinstem.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latinas In STEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sacnas.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SACNAS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.greatmindsinstem.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMiS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://techlatino.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tech Latino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- I believe it goes without saying that hard work, dedication, mental fortitude, and sacrifice played a tremendous role. --&gt;</description>
+    </item>
     
     <item>
       <title>Writing technical content in Academic</title>
