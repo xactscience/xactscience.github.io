@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | xactscience</title>
-    <link>/publication_types.html</link>
+    <title>Publication_types | </title>
+    <link>/publication_types/</link>
       <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Richard M. Gutierrez</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Richard M. Gutierrez</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu75af98c4cf089af85f3f51065ac8173d_159338_300x300_fit_lanczos_2.png</url>
+      <url>/images/icon_hu75af98c4cf089af85f3f51065ac8173d_159338_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>/publication_types.html</link>
+      <link>/publication_types/</link>
     </image>
     
   </channel>

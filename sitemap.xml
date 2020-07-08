@@ -3,28 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1.html</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example.html</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2.html</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example.html</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk.html</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,133 +23,168 @@
   </url>
   
   <url>
-    <loc>/post.html</loc>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/min-stem-resources.html</loc>
+    <loc>/post/min-stem-resources/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2.html</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors.html</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/ieee_tvt_2019_uas_chan.html</loc>
+    <loc>/publication/ieee_tvt_2019_uas_chan/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types.html</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication.html</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/richard-m.-gutierrez.html</loc>
+    <loc>/author/richard-m.-gutierrez/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/source-themes.html</loc>
+    <loc>/tag/source-themes/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags.html</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content.html</loc>
+    <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/1.html</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/ieee_aerospace_2019_jrc.html</loc>
+    <loc>/publication/ieee_aerospace_2019_jrc/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses.html</loc>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter.html</loc>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides.html</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example.html</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/deep-learning.html</loc>
+    <loc>/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/demo.html</loc>
+    <loc>/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project.html</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project.html</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project.html</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/academic.html</loc>
+    <loc>/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/getting-started.html</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories.html</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/demo.html</loc>
+    <loc>/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
