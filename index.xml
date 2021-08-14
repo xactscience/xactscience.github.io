@@ -7,7 +7,7 @@
     <description></description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Richard M. Gutierrez</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu75af98c4cf089af85f3f51065ac8173d_159338_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu75af98c4cf089af85f3f51065ac8173d_159338_512x512_fill_lanczos_center_3.png</url>
       <title></title>
       <link>/</link>
     </image>
@@ -81,7 +81,7 @@
       <link>/post/min-stem-resources/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/post/min-stem-resources/</guid>
-      <description>&lt;p&gt;I have been very blessed in my life to get to where I currently am and I could not have done it alone. I have been fortunate to have had friends, family (starting with my parents), mentors, and various organizations that have helped me along the way. As a Mexican-American, I am part of an underrepresented group of minorities with in the Science, Technology, Engineering, and Mathematics (STEM) field.&lt;/p&gt;
+      <description>&lt;p&gt;I have been very blessed in my life to get to where I currently am and I could not have done it alone. I have been fortunate to have had friends, family (starting with my parents), mentors, and various organizations that have helped me along the way. As a Mexican-American, I am part of an underrepresented group of minorities with in the Science, Technology, Engineering, and Mathematics (STEM) field. To illustrate, the percent share of conferred degrees to underrepresented minorities from 1996 to 2016 is shown in the figure below.&lt;/p&gt;
 
 &lt;html&gt;
 &lt;head&gt;&lt;meta charset=&#34;utf-8&#34; /&gt;&lt;/head&gt;
@@ -108,8 +108,8 @@
         &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-&lt;p&gt;A summary of the important findings from a 
-&lt;a href=&#34;https://www.nsf.gov/statistics/wmpd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;report&lt;/a&gt; produced by the National Center for Science and Engineering Statistics summarizes the current state of the underrepresented minorities in STEM:&lt;/p&gt;
+&lt;p&gt;The data is from a 
+&lt;a href=&#34;https://www.nsf.gov/statistics/wmpd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;report&lt;/a&gt; produced by the National Center for Science and Engineering Statistics. In the report, the authors summarize the current state of the underrepresented minorities in STEM:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;The share of science and engineering (S&amp;amp;E) bachelor’s and doctorate degrees awarded to underrepresented  minorities—Hispanics or Latinos, blacks or African Americans, and American Indians or Alaska Natives—has increased over the past two decades. Minority-serving institutions—historically black colleges or universities (HBCUs) and high-Hispanic-enrollment institutions (HHEs)—have played an important role in awarding bachelor’s degrees to students who later earn doctorate degrees in S&amp;amp;E fields, helping to advance representation in these fields by minorities. Despite this progress, these groups continue to be underrepresented among S&amp;amp;E degree recipients relative to their representation in the overall population.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -146,6 +146,29 @@
       <link>/publication/ieee_tvt_2019_uas_chan/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/publication/ieee_tvt_2019_uas_chan/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Noncontact Vital Sign Detection With UAV-Borne Radars: An Overview of Recent Advances</title>
+      <link>/publication/ieee_vt_magazine/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ieee_vt_magazine/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -203,7 +226,7 @@ data.head()
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
+&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\&lt;br&gt;
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
 &lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
@@ -500,7 +523,8 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
